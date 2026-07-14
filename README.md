@@ -18,7 +18,7 @@
 - 🎯 Goal: Build impactful AI products used by millions of people
 - 🏆 Interested in AI/ML Engineering, Software Development, and Open Source
 - 💡 I enjoy turning innovative ideas into real-world AI solutions
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: iabhay.thakur18@gmail.com
 - 🌐 Portfolio: Coming Soon
 
 
